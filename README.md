@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+A mi me gusta ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 <!--
 **epeat96/epeat96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
