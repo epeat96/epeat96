@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Cristobal (Epeat) Barreto and this is my github profile
+## Hi there 👋 my name is Cristobal (Epeat) Barreto and this is my GitHub profile
 
 I was born on December 13th, 1996, and, like many others, my introduction to technology started at a very young age—playing computer games since I was 5 years old. This early exposure sparked my passion for technology, which has only grown over the years.
 
@@ -6,7 +6,7 @@ I began studying Computer Engineering in 2015 but later transitioned to Systems 
 
 2024 has been especially memorable, as I became a father to my son, Cedric, born in June.
 
-## 💼 Professional background
+## 💼 Professional Background
 
 I'm a Software Engineer with experience in full-stack web and mobile development. My current stack includes:
 
@@ -25,6 +25,20 @@ Previously, I worked with backend technologies like:
 [![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 I also have a background in system administration, working with hypervisors like [**XenServer**](https://www.xenserver.com/) and tools like [**Virtualmin**](https://virtualmin.com/) and [**Clonezilla**](https://clonezilla.org/) for managing lab environments.
+
+## Interests and Hobbies
+
+In my free time i sometimes like to: 
+
+- Do security CTF challenges. Check out my TryHackMe profile!:
+  
+    [![image](https://tryhackme-badges.s3.amazonaws.com/Epeat.png)](https://tryhackme.com/r/p/Epeat)
+  
+- Play TTRPGS like [Dungeon World](https://dungeon-world.com/).
+- Solve chess puzzles on [Lichess](https://lichess.org/) (not so much playing chess 🤣🤣) 
+- Sometimes I also play video games
+- I'm trying to start reading (to justify my Kindle purchase by actually using it 😂)
+
 
 <!--
 **epeat96/epeat96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
