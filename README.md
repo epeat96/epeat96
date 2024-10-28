@@ -28,7 +28,7 @@ I also have a background in system administration, working with hypervisors like
 
 ## Interests and Hobbies
 
-In my free time i sometimes like to: 
+In my free time I sometimes like to: 
 
 - Do security CTF challenges. Check out my TryHackMe profile!:
   
@@ -36,7 +36,7 @@ In my free time i sometimes like to:
   
 - Play TTRPGS like [Dungeon World](https://dungeon-world.com/).
 - Solve chess puzzles on [Lichess](https://lichess.org/) (not so much playing chess 🤣🤣) 
-- Sometimes I also play video games
+- Sometimes, I also play video games
 - I'm trying to start reading (to justify my Kindle purchase by actually using it 😂)
 
 
