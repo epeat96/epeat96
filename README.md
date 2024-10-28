@@ -1,5 +1,11 @@
 ## Hi there 👋 my name is Cristobal (Epeat) Barreto and this is my github profile
 
+I was born on December 13th, 1996, and, like many others, my introduction to technology started at a very young age—playing computer games since I was 5 years old. This early exposure sparked my passion for technology, which has only grown over the years.
+
+I began studying Computer Engineering in 2015 but later transitioned to Systems Analysis in 2023, mainly to align my class schedule better with my full-time job. During my time at university, I also worked as a sysadmin, gaining hands-on experience managing IT infrastructure and solving real-world problems.
+
+2024 has been especially memorable, as I became a father to my son, Cedric, born in June.
+
 ## 💼 Professional background
 
 I'm a Software Engineer with experience in full-stack web and mobile development. My current stack includes:
