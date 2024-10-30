@@ -26,7 +26,7 @@ Previously, I worked with backend technologies like:
 
 I also have a background in system administration, working with hypervisors like [**XenServer**](https://www.xenserver.com/) and tools like [**Virtualmin**](https://virtualmin.com/) and [**Clonezilla**](https://clonezilla.org/) for managing lab environments.
 
-## Interests and Hobbies
+## 👾 Interests and Hobbies
 
 In my free time I sometimes like to: 
 
