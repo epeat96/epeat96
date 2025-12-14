@@ -10,11 +10,11 @@ I began studying Computer Engineering in 2015 but later transitioned to Systems 
 
 I'm a Software Engineer with experience in full-stack web and mobile development. My current stack includes:
 
-[![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
+
 [![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://es.wikipedia.org/wiki/Microsoft_SQL_Server)
 [![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-![Static Badge](https://img.shields.io/badge/B4X-%2314AECB?style=for-the-badge&logo=b4x&logoColor=white&link=https%3A%2F%2Fwww.b4x.com%2F)
+[![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 
 Previously, I worked with backend technologies like: 
 
@@ -22,7 +22,9 @@ Previously, I worked with backend technologies like:
 [![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
 [![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
 [![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-![Static Badge](https://img.shields.io/badge/B4X-%2314AECB?style=for-the-badge&logo=b4x&logoColor=white&link=https%3A%2F%2Fwww.b4x.com%2F)
+[![image](https://img.shields.io/badge/B4X-%2314AECB?style=for-the-badge&logo=b4x&logoColor=white&link=https%3A%2F%2Fwww.b4x.com%2F
+)](https://www.b4x.com/)
+
 
 I also have a background in system administration, working with hypervisors like [**XenServer**](https://www.xenserver.com/) and tools like [**Virtualmin**](https://virtualmin.com/) and [**Clonezilla**](https://clonezilla.org/) for managing lab environments.
 
