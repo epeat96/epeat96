@@ -14,7 +14,7 @@ I'm a Software Engineer with experience in full-stack web and mobile development
 [![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://es.wikipedia.org/wiki/Microsoft_SQL_Server)
 [![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-![Static Badge](https://img.shields.io/badge/B4X-%2314AECB?style=for-the-badge&logo=b4x&logoColor=white)
+![Static Badge](https://img.shields.io/badge/B4X-%2314AECB?style=for-the-badge&logo=b4x&logoColor=white&link=https%3A%2F%2Fwww.b4x.com%2F)
 
 Previously, I worked with backend technologies like: 
 
